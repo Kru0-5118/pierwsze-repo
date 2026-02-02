@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f4f6f8;
+    background-color: mediumaquamarine;
+}
+
+header, footer {
+    padding: 15px;
+    background: #24292e;
+    color: white;
+}
